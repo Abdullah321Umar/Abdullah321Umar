@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah321umar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah321umar" /> </p>
 
 
-- 🌱 I’m currently learning **Power BI for Data Visualization**
+- 🌱 I’m currently learning **Python for Data cleaning, analysis, scripting | SQL for Data extraction, querying databases, joins, aggregations | Excel for Data Cleaning, Preprocessing, Manipulation, Exploratory Data Analysis (EDA), Statistical Analysis, Reporting & Automation | Power BI for Data visualization, dashboards, interactive reports|**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/umerabdullah048](https://www.datascienceportfol.io/umerabdullah048)
 
