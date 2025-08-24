@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **Python, SQL, Excel, Power BI**
 
-- 📫 How to reach me **https://linktr.ee/AbdullahUmar.DataAnalyst**
+- 🌐 My Portfolio **https://linktr.ee/AbdullahUmar.DataAnalyst**
+
+- 📧 How to reach me **umerabdullah048@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-umar-730a622a8/](https://www.linkedin.com/in/abdullah-umar-730a622a8/)
 
