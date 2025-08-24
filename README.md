@@ -14,7 +14,7 @@
 
 - 📧 How to reach me **umerabdullah048@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-umar-730a622a8/](https://www.linkedin.com/in/abdullah-umar-730a622a8/)
+- 🚀 Know about my experiences [https://www.linkedin.com/in/abdullah-umar-730a622a8/](https://www.linkedin.com/in/abdullah-umar-730a622a8/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
