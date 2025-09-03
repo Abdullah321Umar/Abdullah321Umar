@@ -25,7 +25,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-umar-730a622a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-umar-730a622a8/" height="30" width="40" /></a>
 
-[<img src="./assets/linktree.png" alt="Linktree" height="36">]([https://linktr.ee/yourusernam](https://linktr.ee/AbdullahUmar.DataAnalyst)
+<a href="https://linktr.ee/AbdullahUmar.DataAnalyst" target="_blank">
+  <img
+    alt="Linktree"
+    src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
+/>
+</a>
 
   
 <a href="https://www.kaggle.com/abdullahumar321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abdullahumar321" height="30" width="40" /></a>
