@@ -39,5 +39,5 @@
 <div align="center" style="margin: 30px 0;">
   <img src="https://komarev.com/ghpvc/?username=Abdullah321Umar&color=4682B4&style=for-the-badge&label=PROFILE+VIEWS" height="35"/>
   <img src="https://img.shields.io/github/followers/Abdullah321Umar?color=1E90FF&style=for-the-badge&logo=github&label=FOLLOWERS" height="35"/>
-  <img src="https://img.shields.io/github/stars/Abdullah321UmarAwais11227?color=00BFFF&style=for-the-badge&logo=github&label=STARS" height="35"/>
+  <img src="https://img.shields.io/github/stars/Abdullah321Umar?color=00BFFF&style=for-the-badge&logo=github&label=STARS" height="35"/>
 </div>
