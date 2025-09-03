@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah321umar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah321umar" /> </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=600&height=45&lines=Data+Analytics+%7C+Python+Programming;SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights" />
+</p>
 
 - I’m currently learning **Python for Data cleaning, analysis, scripting | SQL for Data extraction, querying databases, joins, aggregations | Excel for Data Cleaning, Preprocessing, Manipulation, Exploratory Data Analysis (EDA), Statistical Analysis, Reporting & Automation | Power BI for Data visualization, dashboards, interactive reports.**
 
