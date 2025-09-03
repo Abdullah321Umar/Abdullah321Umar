@@ -32,9 +32,10 @@ alt="https://linktr.ee/AbdullahUmar.DataAnalyst" width="40" style="border-radius
 <a href="https://medium.com/@umerabdullah048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umerabdullah048" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/abdullah_umar_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdullah_umar_123/" height="30" width="40" /></a>
 <a href="https://discord.gg/_abdullahumar_55102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_abdullahumar_55102" height="30" width="40" /></a>
-<a href="https://www.pinterest.com/umerabdullah048/" target="_blank"><img align="center" 
+  
+<a href="https://www.pinterest.com/umerabdullah048/" target="_blank"><img alt="Pinterest" align="center" 
 src="https://freebiesupply.com/logos/pinterest-circle-logo/pinterest-circle-logo.png" 
-alt="https://www.pinterest.com/umerabdullah048/" height="30" width="40" /></a>
+alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 </p>
 
 ---
