@@ -33,7 +33,7 @@ alt="https://linktr.ee/AbdullahUmar.DataAnalyst" width="40" style="border-radius
 <a href="https://leetcode.com/u/abdullah_umar_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdullah_umar_123/" height="30" width="40" /></a>
 <a href="https://discord.gg/_abdullahumar_55102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_abdullahumar_55102" height="30" width="40" /></a>
 <a href="https://www.pinterest.com/umerabdullah048/" target="_blank"><img align="center" 
-src="https://www.svgrepo.com/show/35416/pinterest-round-logo.svg" 
+src="https://images.ctfassets.net/h67z7i6sbjau/6g0I4Wtvly6f5Ax6GmrOhE/a29b76aaa99fe3c115b6fb18192935eb/Brand_Guidelines_hero_1x.jpg?fm=webp&q=85" 
 alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 </p>
 
