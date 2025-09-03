@@ -34,7 +34,7 @@ alt="https://linktr.ee/AbdullahUmar.DataAnalyst" width="40" style="border-radius
 <a href="https://discord.gg/_abdullahumar_55102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_abdullahumar_55102" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~014262498b5ae93183" target="_blank"><img alt="Upwork" 
 src="https://logo.svgcdn.com/l/upwork.png" 
-alt="https://www.upwork.com/freelancers/~014262498b5ae93183" width="40" style="border-radius:50%;"  /></a>
+alt="https://www.citypng.com/public/uploads/preview/pinterest-social-media-round-logo.png" width="40" style="border-radius:50%;"  /></a>
 </p>
 
 ---
