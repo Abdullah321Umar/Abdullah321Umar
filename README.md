@@ -33,6 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah321umar&show_icons=true&locale=en" alt="abdullah321umar" /></p>
 
+---
 
 ## 📡 Reach & Stats  
 
@@ -40,4 +41,12 @@
   <img src="https://komarev.com/ghpvc/?username=Abdullah321Umar&color=4682B4&style=for-the-badge&label=PROFILE+VIEWS" height="35"/>
   <img src="https://img.shields.io/github/followers/Abdullah321Umar?color=1E90FF&style=for-the-badge&logo=github&label=FOLLOWERS" height="35"/>
   <img src="https://img.shields.io/github/stars/Abdullah321Umar?color=00BFFF&style=for-the-badge&logo=github&label=STARS" height="35"/>
+</div>
+
+---
+
+## 📈 Contributions & Growth  
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah321Umar&custom_title=Abdullah%20Umar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
