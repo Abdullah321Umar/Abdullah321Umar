@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Umar</h1>
-<h3 align="center">Junior Data Analyst | Power BI Developer</h3>
+<h3 align="center">🚀 Junior Data Analyst | Power BI Developer | Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah321umar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah321umar" /> </p>
 
