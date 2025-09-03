@@ -27,9 +27,8 @@
 <a href="https://linktr.ee/AbdullahUmar.DataAnalyst" target="_blank">
   <img 
     alt="Linktree" 
-    src="https://cdn-icons-png.flaticon.com/512/870/870174.png" 
-    width="40" 
-    style="border-radius:50%;" 
+    src="https://raw.githubusercontent.com/your-repo/branch/assets/linktree-circle.png" 
+    height="40"
   />
 </a>
 <a href="https://www.kaggle.com/abdullahumar321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abdullahumar321" height="30" width="40" /></a>
