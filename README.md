@@ -32,3 +32,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah321umar&show_icons=true&locale=en&layout=compact" alt="abdullah321umar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah321umar&show_icons=true&locale=en" alt="abdullah321umar" /></p>
+
+
+## 📡 Reach & Stats  
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://komarev.com/ghpvc/?username=Awais11227&color=4682B4&style=for-the-badge&label=PROFILE+VIEWS" height="35"/>
+  <img src="https://img.shields.io/github/followers/Awais11227?color=1E90FF&style=for-the-badge&logo=github&label=FOLLOWERS" height="35"/>
+  <img src="https://img.shields.io/github/stars/Awais11227?color=00BFFF&style=for-the-badge&logo=github&label=STARS" height="35"/>
+</div>
