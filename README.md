@@ -21,7 +21,8 @@
 
 ---
 
-<h3 align="left">Let's Connect:</h3>
+## Let's Connect:
+
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-umar-730a622a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-umar-730a622a8/" height="30" width="40" /></a>
 <a href="https://linktr.ee/AbdullahUmar.DataAnalyst" target="_blank"><img align="center" 
@@ -40,7 +41,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 
 ---
 
-## Skills & Technologies:
+## Tools & Technologies:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
