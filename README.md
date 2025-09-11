@@ -21,7 +21,7 @@
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-umar-730a622a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-umar-730a622a8/" height="30" width="40" /></a>
@@ -41,7 +41,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 
 ---
 
-## Languages and Databases
+## 📊 Languages and Databases
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -62,7 +62,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 
 ---
 
-## Tools & Technologies
+## 💻 Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
@@ -81,7 +81,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 
 ---
 
-## GitHub Highlights
+## 🗂️ GitHub Highlights
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah321umar&show_icons=true&locale=en&layout=compact" alt="abdullah321umar" /></p>
 
