@@ -104,3 +104,9 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 <div align="center" style="margin: 30px 0;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah321Umar&custom_title=Abdullah%20Umar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
+</p>
