@@ -31,8 +31,7 @@ alt="https://linktr.ee/AbdullahUmar.DataAnalyst" width="40" style="border-radius
 <a href="https://www.instagram.com/abdullahumarwahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdullahumarwahid" height="30" width="40" /></a>
 <a href="https://medium.com/@umerabdullah048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umerabdullah048" height="30" width="40" /></a>
 <a href="https://my-dashboard-canvas.lovable.app/" target="blank"><img align="center" 
-src="https://lovable.dev/assets/logo.png"
-alt="https://my-dashboard-canvas.lovable.app/" height="30" width="40" /></a>
+<img src="images/lovable-logo.png" alt="Lovable Logo" width="150"/></a>
 <a href="https://leetcode.com/u/abdullah_umar_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdullah_umar_123/" height="30" width="40" /></a>
 <a href="https://discord.gg/_abdullahumar_55102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_abdullahumar_55102" height="30" width="40" /></a>
 <a href="https://www.pinterest.com/umerabdullah048/" target="_blank"><img align="center" 
