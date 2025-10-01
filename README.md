@@ -107,6 +107,14 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 
 ---
 
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah321Umar&theme=darkhub&margin-w=15">
+</p>
+
+---
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
 </p>
