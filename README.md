@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Umar</h1>
 <h3 align="center">🚀 Junior Data Analyst | Power BI Developer | Data Scientist</h3>
 
-<p align="left"> <img width="20%" src="https://komarev.com/ghpvc/?username=abdullah321umar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah321umar" /> </p>
+<p align="center"> <img width="20%" src="https://komarev.com/ghpvc/?username=abdullah321umar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah321umar" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=600&height=45&lines=Data+Analytics+|+Python+Programming;SQL+|+Excel+|+Power+BI+|+Tableau;Turning+Data+into+Actionable+Insights" />
