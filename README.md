@@ -133,7 +133,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 </p>
 
 ---
-> 💬 Let’s build something incredible together. Whether it’s code, community, or creativity—I’m always open for the next challenge!
+> 💬 Collaboration fuels innovation! Let’s connect and craft something amazing — from powerful code to creative ideas that make a difference. 🤝✨
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
