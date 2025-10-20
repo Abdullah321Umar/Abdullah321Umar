@@ -102,11 +102,12 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 
 ## 🗂️ GitHub Highlights
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah321umar&show_icons=true&locale=en&layout=compact" alt="abdullah321umar" /></p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar123-git&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=15)  
+![Abdullah Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar123-git&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Umar123-git&theme=tokyonight&hide_border=true&border_radius=15)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah321umar&show_icons=true&locale=en" alt="abdullah321umar" /></p>
+### 📈 Contribution Activity Graph
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdullah321umar&theme=tokyonight&hide_border=true&border_radius=15" /></p>
 ---
 
 ## 📡 Reach & Stats  
