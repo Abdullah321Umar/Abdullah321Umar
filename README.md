@@ -102,6 +102,8 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 
 ## 🗂️ GitHub Highlights
 
+<div align="center">
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah321umar&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=15)  
 ![Abdullah Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah321umar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdullah321umar&theme=tokyonight&hide_border=true&border_radius=15)
