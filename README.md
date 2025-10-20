@@ -134,7 +134,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdullah321Umar&theme=darkhub&margin-w=15">
-,</p>
+</p>
 
 ---
 > 💬 Collaboration fuels innovation! Let’s connect and craft something amazing — from powerful code to creative ideas that make a difference. 🤝✨
