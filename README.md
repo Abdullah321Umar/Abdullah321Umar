@@ -106,6 +106,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah321umar&show_icons=true&locale=en" alt="abdullah321umar" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abdullah321umar&theme=tokyonight&hide_border=true&border_radius=15" /></p>
 ---
 
 ## 📡 Reach & Stats  
@@ -130,7 +131,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdullah321Umar&theme=darkhub&margin-w=15">
-</p>
+,</p>
 
 ---
 > 💬 Collaboration fuels innovation! Let’s connect and craft something amazing — from powerful code to creative ideas that make a difference. 🤝✨
