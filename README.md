@@ -115,9 +115,9 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 ## 📡 Reach & Stats  
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah321Umar&color=4682B4&style=for-the-badge&label=PROFILE+VIEWS" height="35"/>
-  <img src="https://img.shields.io/github/followers/Abdullah321Umar?color=1E90FF&style=for-the-badge&logo=github&label=FOLLOWERS" height="35"/>
-  <img src="https://img.shields.io/github/stars/Abdullah321Umar?color=00BFFF&style=for-the-badge&logo=github&label=STARS" height="35"/>
+  <img src="https://komarev.com/ghpvc/?username=Abdullah321Umar&color=4682B4&style=for-the-badge&label=PROFILE+VIEWS" height="45"/>
+  <img src="https://img.shields.io/github/followers/Abdullah321Umar?color=1E90FF&style=for-the-badge&logo=github&label=FOLLOWERS" height="45"/>
+  <img src="https://img.shields.io/github/stars/Abdullah321Umar?color=00BFFF&style=for-the-badge&logo=github&label=STARS" height="45"/>
 </div>
 
 ---
