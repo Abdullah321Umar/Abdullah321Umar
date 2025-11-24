@@ -139,7 +139,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 ---
 
 <!--Dynamic Quote card updates every day at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🔮 DAILY DOSE OF INSPIRATION 🔮</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
