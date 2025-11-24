@@ -23,6 +23,11 @@
 ---
 
 ## 🤝 Let's Connect
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-umar-730a622a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-umar-730a622a8/" height="30" width="40" /></a>
@@ -39,7 +44,7 @@ src="https://static.cdnlogo.com/logos/p/99/pinterest-circle.svg"
 alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
 ## 📊 Languages and Databases
 
