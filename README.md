@@ -41,13 +41,15 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 
 ---
 
-## 📊 Languages and Databases
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
+
+---
+
+## 📊 Languages and Databases
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
