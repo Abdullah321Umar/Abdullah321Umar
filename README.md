@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Umar</h1>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">🚀 Junior Data Analyst | Power BI Developer | Data Scientist</h3>
 
 <p align="left"> <img width="20%" src="https://komarev.com/ghpvc/?username=abdullah321umar&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah321umar" /> </p>
