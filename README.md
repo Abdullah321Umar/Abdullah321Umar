@@ -23,11 +23,6 @@
 ---
 
 ## 🤝 Let's Connect
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdullah-umar-730a622a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-umar-730a622a8/" height="30" width="40" /></a>
@@ -142,7 +137,17 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
 </p>
 
 ---
-> 💬 Collaboration fuels innovation! Let’s connect and craft something amazing — from powerful code to creative ideas that make a difference. 🤝✨
+
+<!--Dynamic Quote card updates every day at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=There's%20no%20coming%20to%20consciousness%20without%20pain&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
