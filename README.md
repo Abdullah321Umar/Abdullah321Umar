@@ -65,6 +65,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
+
 ---
 
 ## 💻 Tools & Technologies
