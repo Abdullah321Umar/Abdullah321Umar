@@ -120,7 +120,7 @@ alt="https://www.pinterest.com/umerabdullah048/" width="40" /></a>
   <img src="https://img.shields.io/github/stars/Abdullah321Umar?color=00BFFF&style=for-the-badge&logo=github&label=STARS" height="45"/>
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📈 Contributions & Growth  
 
